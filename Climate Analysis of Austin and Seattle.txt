@@ -1,0 +1,36 @@
+Climate Analysis of Austin and Seattle
+1. Introduction
+Aim: Analyze and compare climate data (temperature and humidity) for Austin and Seattle.
+Scope: Visualize time series data, monthly averages, and distributions. Also, create scatter and box plots.
+2. Data Description
+Datasets:
+austin_weather.csv: Contains daily weather data for Austin (temperature and humidity).
+seattle_weather.csv: Contains daily weather data for Seattle (temperature and humidity).
+Columns:
+Date: Date of the observation.
+Temperature: Temperature in Fahrenheit.
+Humidity: Humidity percentage.
+3. Method
+Data Loading: Load CSV files into Pandas DataFrames.
+Date Conversion: Convert the 'Date' column to datetime format.
+Index Setting: Set 'Date' as the index for time series analysis.
+Visualization:
+Time Series Plots: Plot temperature and humidity trends.
+Monthly Averages: Calculate and plot monthly average temperatures.
+Histograms: Show temperature distribution.
+Scatter Plots: Analyze the relationship between temperature and humidity.
+Box plots: Compare temperature distributions using box plots.
+4. Results
+Time Series Trends: Visualize how temperature and humidity change over time.
+Monthly Averages: Compare average temperatures month by month.
+Distribution: Observe the frequency of temperature ranges.
+Scatter Plot: Explore the relationship between temperature and humidity.
+Box Plot: Compare temperature variability between cities.
+5. Conclusion
+Summarize key findings and insights from the visualizations.
+Discuss any noticeable differences or patterns between Austin and Seattle.
+6. Future Work
+Recommendations: Further analysis could include additional weather variables or longer time periods.
+Improvements: Enhance visualizations with interactive plots or incorporate more advanced statistical analyses.
+7. References
+Cite any sources of data or extra resources used in the analysis.
