@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/weather-analysis.git
+git clone [https://github.com/yourusername/weather-analysis.git](https://github.com/nithiritgithup/Climate-Analysis-of-Austin-and-Seattle)
 cd weather-analysis
 Install Required Packages:
 Ensure you have the necessary Python packages installed. You can use pip to install them:
